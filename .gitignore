@@ -1,0 +1,204 @@
+# Dependencies
+node_modules/
+
+# Build output
+.next
+.dist
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for instrumented lib coverage
+coverage/
+
+# Coverage directory used by many JavaScript frameworks
+*.coverage
+
+# Compiled binary extensions
+*.so
+*.o
+*.dylib
+
+# Compiled Python source files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+developments/
+dist/
+downloads/
+peggs/
+piped_in/
+local-lib/
+lib64/
+include/
+sqlite/
+lib/sqlite3/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.pyenv
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pdm
+.pdm.lock
+
+# Flask stuff:
+instance/
+.webassets
+
+# Django stuff:
+*.sqlite3
+local_settings.py
+
+# pyenv
+.python-version
+
+# Virtual environment
+venv/
+ENV/
+env/
+venv*
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests
+*.test.js
+*.spec.js
+
+# Package files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Build artifacts
+*.log
+*.map
+
+# Config files
+*.config.js
+*.config.json
+
+# Generated files
+*.min.js
+*.bundle.js
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime data
+*.data
+
+# Distribution directories
+dist/
+build/
+
+# Project specific
+.cache
+.idea
+.vscode
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Yarn
+.pnp.*
+
+# Gatsby
+.cache/
+gatsby-ssr-client-manifest.json
+manifest.webmanifest
+
+# Local env files
+.env*.local
+
+# React build tools
+.storybook
+*.storybook
+
+# AWS
+.aws
+
+# Azure
+.azure
+
+# Google Cloud
+.google-cloud
+
+# IBM Cloud
+.ibmcloud
+
+# CircleCI
+.circleci
+
+# Docker
+.dockerignore
+
+# Java
+*.class
+
+# Maven
+target/
+
+# Go
+bin/
+
+# .NET
+bin/
+obj/
+
+# Python
+.pyc
+__pycache__/
+
+# C++
+*.o
+*.obj
+
+# SASS/SCSS
+*.css.map
+
+# Test files
+*test.js
+*spec.js
+
+# Build logs
+*.log
+*.log.*
